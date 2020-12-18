@@ -17,9 +17,14 @@
             "/Tests/"
         ]
     },
+    "repositories": [
+        {
+            "type": "github",
+            "url": "https://github.com/akammaru/rulerz.git"
+        }
+    ]
     "require": {
         "php": ">=7.1",
-        "akammaru/rulerz": "^1.0",
         "kphoen/rulerz-bridge": "^1.0",
         "symfony/framework-bundle": "^3.0|^5.2"
     },
